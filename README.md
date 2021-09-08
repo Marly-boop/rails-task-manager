@@ -1,24 +1,4 @@
-# README
+# To Do List in
+![image](https://user-images.githubusercontent.com/60466088/132197560-92b7b888-d34c-4e40-8dcb-4b314643083c.png)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Launch "rails s" and go to localhost:{PORT}/tasks
